@@ -21,7 +21,7 @@ I also have a keen interest in surgical robotics, especially in developing syste
 
 
 
-<h2 style="color:#333; margin-top: 40px;">Skills</h2>
+<h2 style="color:#666; margin-top: 30px;">Skills</h2>
 
 <p>Proficient in Python and PyTorch.</p>
 
