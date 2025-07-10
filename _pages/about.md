@@ -21,26 +21,26 @@ I also have a keen interest in surgical robotics, especially in developing syste
 
 
 
-<h2 style="color:#333; margin-top: 40px;">?? Skills</h2>
+<h2 style="color:#333; margin-top: 40px;">Skills</h2>
 
-<p>? Proficient in <strong style="color:#e76f51;">Python</strong> with a focus on deep learning using PyTorch.</p>
+<p>Proficient in Python and PyTorch.</p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
-  <img src="/images/skills/python.png" alt="Python" title="Python" style="width:50px;">
-  <img src="/images/skills/java.png" alt="Java" title="Java" style="width:50px;">
-  <img src="/images/skills/cpp.png" alt="C++" title="C++" style="width:50px;">
-  <img src="/images/skills/csharp.png" alt="C#" title="C#" style="width:50px;">
-  <img src="/images/skills/matlab.png" alt="MATLAB" title="MATLAB" style="width:50px;">
-  <img src="/images/skills/pytorch.png" alt="PyTorch" title="PyTorch" style="width:50px;">
-  <img src="/images/skills/tensorflow.png" alt="TensorFlow" title="TensorFlow" style="width:50px;">
-  <img src="/images/skills/opencv.png" alt="OpenCV" title="OpenCV" style="width:50px;">
-  <img src="/images/skills/git.png" alt="Git" title="Git" style="width:50px;">
-  <img src="/images/skills/docker.png" alt="Docker" title="Docker" style="width:50px;">
-  <img src="/images/skills/linux.png" alt="Linux" title="Linux" style="width:50px;">
-  <img src="/images/skills/unity.png" alt="Unity" title="Unity Engine" style="width:50px;">
-  <img src="/images/skills/android.png" alt="Android Studio" title="Android Studio" style="width:50px;">
-  <img src="/images/skills/blender.png" alt="Blender" title="Blender" style="width:50px;">
-  <img src="/images/skills/latex.png" alt="LaTeX" title="LaTeX" style="width:50px;">
+  <img src="/images/skills/python.png" alt="Python" title="Python" style="width:20px;">
+  <img src="/images/skills/java.png" alt="Java" title="Java" style="width:20px;">
+  <img src="/images/skills/cpp.png" alt="C++" title="C++" style="width:20px;">
+  <img src="/images/skills/csharp.png" alt="C#" title="C#" style="width:20px;">
+  <img src="/images/skills/matlab.png" alt="MATLAB" title="MATLAB" style="width:20px;">
+  <img src="/images/skills/pytorch.png" alt="PyTorch" title="PyTorch" style="width:20px;">
+  <img src="/images/skills/tensorflow.png" alt="TensorFlow" title="TensorFlow" style="width:20px;">
+  <img src="/images/skills/opencv.png" alt="OpenCV" title="OpenCV" style="width:20px;">
+  <img src="/images/skills/git.png" alt="Git" title="Git" style="width:20px;">
+  <img src="/images/skills/docker.png" alt="Docker" title="Docker" style="width:20px;">
+  <img src="/images/skills/linux.png" alt="Linux" title="Linux" style="width:20px;">
+  <img src="/images/skills/unity.png" alt="Unity" title="Unity Engine" style="width:20px;">
+  <img src="/images/skills/android.png" alt="Android Studio" title="Android Studio" style="width:20px;">
+  <img src="/images/skills/blender.png" alt="Blender" title="Blender" style="width:20px;">
+  <img src="/images/skills/latex.png" alt="LaTeX" title="LaTeX" style="width:20px;">
 </div>
 
 
