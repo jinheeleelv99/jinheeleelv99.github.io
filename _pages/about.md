@@ -85,7 +85,7 @@ I also have a keen interest in surgical robotics, especially in developing syste
 
 <h2 style="color:#666; margin-top: 40px;">Work Experience</h2>
 
-<div style="line-height: 1.8; max-width: 1000px; margin: 0 auto;">
+<div style="line-height: 1.8; max-width: 1500px; margin: 0 auto;">
 
   <div style="margin-bottom: 20px;">
     <strong>Surgical Innovation & Machine Interfacing Lab (SIMILab), Stanford University and <em>Bongseng AI Lab (BAIL), Bongseng Memorial Hospital</em></strong>
@@ -108,11 +108,11 @@ I also have a keen interest in surgical robotics, especially in developing syste
   <div style="margin-bottom: 20px;">
     <strong>Korea Aerospace Research Institute (KARI)</strong>
     <p>Student Researcher, <em>March 2016 - February 2018.</em></p>  
-    - 2 years of experience in supersonic combustion and turbomachinery research.<br>  
     Conducted fuel injector tests and combustion stability experiments for Supersonic Combustion RamJet (Scramjet) engines. <br> 
     Built image analysis scripts for laser diagnostic data (PDPA and PLIF) using MATLAB.
   </div>
 
+  <div style="margin-bottom: 20px;">
   <div>
     <strong>Republic of Korea Air Force</strong>,  
     <p>Sergeant, Aircraft Mechanics, <em>February 2011 - February 2013. </em></p> 
