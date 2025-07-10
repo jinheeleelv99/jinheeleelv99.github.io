@@ -88,34 +88,36 @@ I also have a keen interest in surgical robotics, especially in developing syste
 <div style="line-height: 1.8; max-width: 1000px; margin: 0 auto;">
 
   <div style="margin-bottom: 20px;">
-    <strong>AI Research Collaborator</strong>, Stanford University & Bongseng Memorial Hospital  
-    ? Currently serving at the Surgical Innovation & Machine Interfacing Lab (SIMILab), Stanford University and the Bongseng AI Lab (BAIL), Bongseng Memorial Hospital since September 2024. 
+    <strong>AI Research Collaborator</strong>,  September 2024 - Present. 
+    <p><em>the Surgical Innovation & Machine Interfacing Lab (SIMILab), Stanford University and Bongseng AI Lab (BAIL), Bongseng Memorial Hospital</em></p>
     Conducting supplementary experiments for research publications. Studying AI models for segmentation, depth estimation, and 3D reconstruction in surgical videos and scenes.
   </div>
 
   <div style="margin-bottom: 20px;">
-    <strong>AI Engineer</strong>, lululab Inc.  
-    - Working since 2022 on AI for human skin analysis and healthcare.  
+    <strong>AI Engineer</strong>, January 2022 - Present.
+    <p><em> AI Research Center, lululab Inc. </em></p>  
     Developed human skin simulation models for skin aging and trouble progression using Diffusion models and GANs.  
-    Built acne segmentation and pattern analysis modules. Developed a ChatGPT-based skin-specific chatbot.  
-    Implemented cosmetics & treatments recommendation system and seven-segment digit OCR for blood pressure registration.  
+    Built acne segmentation and pattern analysis modules.
+    Developed a ChatGPT-based skin-specific chatbot.  
+    Implemented cosmetic & treatment recommendation systems.
+    Developed seven-segment digit OCR for blood pressure registration.  
     Developed personal color analysis models.
   </div>
 
   <div style="margin-bottom: 20px;">
-    <strong>Student Researcher</strong>, Korea Aerospace Research Institute (KARI)  
+    <strong>Student Researcher</strong>, March 2016 - February 2018.
+    <p><em>  Korea Aerospace Research Institute (KARI) </em></p> 
     - 2 years of experience in supersonic combustion and turbomachinery research.  
-    Conducted fuel injector tests and combustion stability experiments for Scramjet engines.  
+    Conducted fuel injector tests and combustion stability experiments for Supersonic Combustion RamJet (Scramjet) engines.  
     Built image analysis scripts for laser diagnostic data (PDPA and PLIF) using MATLAB.
   </div>
 
   <div>
-    <strong>Sergeant, Aircraft Mechanics</strong>, Republic of Korea Air Force  
-    - Completed 2-year mandatory military service.  
-    Provided ground support and aircraft maintenance for E-737 AEW&C.  
-    Honorably discharged after 24 months as a Sergeant.
+    <strong>Sergeant, Aircraft Mechanics</strong>, February 2011 - February 2013.  
+    <p><em>  Republic of Korea Air Force </em></p> 
+    Completed 2-year mandatory military service and honorably discharged after 24 months as a Sergeant.
+    Provided ground support and aircraft maintenance for E-737 AEW&C.      
   </div>
-
 </div>
-[Example](https://academicpages.github.io/cv)  
+
 
