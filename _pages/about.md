@@ -88,7 +88,7 @@ I also have a keen interest in surgical robotics, especially in developing syste
 <div style="line-height: 1.8; max-width: 1500px; margin: 0 auto;">
 
   <div style="margin-bottom: 20px;">
-    <strong>Surgical Innovation & Machine Interfacing Lab (SIMILab), Stanford University and <em>Bongseng AI Lab (BAIL), Bongseng Memorial Hospital</em></strong>
+    <strong>Surgical Innovation & Machine Interfacing Lab (SIMILab), Stanford University and Bongseng AI Lab (BAIL), Bongseng Memorial Hospital</em></strong>
     <p>AI Research Collaborator,  <em>September 2024 - Present.</em></p>
     Conducting supplementary experiments for research publications.<br>
     Studying AI models for segmentation, depth estimation, and 3D reconstruction in surgical videos and scenes.
