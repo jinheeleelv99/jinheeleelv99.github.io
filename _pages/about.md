@@ -44,6 +44,44 @@ I also have a keen interest in surgical robotics, especially in developing syste
 </div>
 
 
+<h2 style="color:#666; margin-top: 40px;">Education</h2>
+
+<!-- Ohio State -->
+<div style="margin-bottom: 30px;">
+  <img src="/images/education/Ohio_State_University_Logo.png" alt="Ohio State Logo" style="width: 30px;">
+  <h3>Ohio State University</h3>
+  <p><strong>Master of Science in Computer Science and Engineering</strong></p>
+  <p>Studied Artificial Intelligence, focusing on its applications in the medical field.</p>
+  <ul>
+    <li>Took courses about Artificial Intelligence, Algorithms, Operating Systems.</li>
+    <li>Project: ML-based research on drug discovery for Alzheimer's Disease.</li>
+  </ul>
+</div>
+
+<!-- UST -->
+<div style="margin-bottom: 30px;">
+  <img src="/images/education/ustLogo.png" alt="UST Logo" style="width: 30px;">
+  <h3>University of Science and Technology</h3>
+  <p><strong>Master of Engineering in Aerospace System Engineering</strong></p>
+  <p>Full-time research at the Korea Aerospace Research Institute (KARI).</p>
+  <ul>
+    <li>Studied Supersonic Combustion Ramjet (ScramJet) engines and Wet Compression Compressor.</li>
+    <li>Thesis: Study on the Spray Characteristics of Fuel Injectors for Scramjet Engines.</li>
+  </ul>
+</div>
+
+<!-- Inha University -->
+<div style="margin-bottom: 30px;">
+  <img src="/images/education/inhaLogo.jpg" alt="Inha Logo" style="width: 30px;">
+  <h3>Inha University</h3>
+  <p><strong>Bachelor of Science in Aerospace Engineering</strong></p>
+  <p>Ranked in the top 10% of the program, honored as a junior year student, and awarded two academic excellence scholarships.</p>
+  <ul>
+    <li>Took courses about Fluid Dynamics, Aerodynamics, Structural Analysis, Propulsion system design, Control Systems, Linear Algebra and Vector Calculus.</li>
+    <li>Project: Unmanned Aerial Vehicle (UAV) Design and Flight Test of a Scaled Prototype.</li>
+  </ul>
+</div>
+
 
 Experience
 
