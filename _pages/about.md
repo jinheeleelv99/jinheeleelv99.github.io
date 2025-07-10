@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="color: #007acc;">
-  I am now seeking a Ph.D. opportunity to work on machine learning, computer vision and AI for healthcare.
+  I am looking for a Ph.D. opportunity to work on machine learning, computer vision and AI for healthcare.
 </p>
 
 I am currently working as an AI engineer at a healthcare startup in Korea, focusing on AI solutions for human skin analysis. 
@@ -88,34 +88,35 @@ I also have a keen interest in surgical robotics, especially in developing syste
 <div style="line-height: 1.8; max-width: 1000px; margin: 0 auto;">
 
   <div style="margin-bottom: 20px;">
-    <strong>AI Research Collaborator</strong>,  September 2024 - Present. 
-    <p><em>the Surgical Innovation & Machine Interfacing Lab (SIMILab), Stanford University and Bongseng AI Lab (BAIL), Bongseng Memorial Hospital</em></p>
-    Conducting supplementary experiments for research publications. Studying AI models for segmentation, depth estimation, and 3D reconstruction in surgical videos and scenes.
+    <strong>Surgical Innovation & Machine Interfacing Lab (SIMILab), Stanford University and <em>Bongseng AI Lab (BAIL), Bongseng Memorial Hospital</em></strong>
+    <p>AI Research Collaborator,  <em>September 2024 - Present.</em></p>
+    Conducting supplementary experiments for research publications.<br>
+    Studying AI models for segmentation, depth estimation, and 3D reconstruction in surgical videos and scenes.
   </div>
 
   <div style="margin-bottom: 20px;">
-    <strong>AI Engineer</strong>, January 2022 - Present.
-    <p><em> AI Research Center, lululab Inc. </em></p>  
-    Developed human skin simulation models for skin aging and trouble progression using Diffusion models and GANs.  
-    Built acne segmentation and pattern analysis modules.
-    Developed a ChatGPT-based skin-specific chatbot.  
-    Implemented cosmetic & treatment recommendation systems.
-    Developed seven-segment digit OCR for blood pressure registration.  
+    <strong>AI Research Center, lululab Inc.</strong> 
+    <p>AI Engineer, <em>January 2022 - Present.</em></p>
+    Developed human skin simulation models for skin aging and trouble progression using Diffusion models and GANs.<br>  
+    Built acne segmentation and pattern analysis modules.<br>
+    Developed a ChatGPT-based skin-specific chatbot.<br>  
+    Implemented cosmetic & treatment recommendation systems.<br>
+    Developed seven-segment digit OCR for blood pressure registration.<br>  
     Developed personal color analysis models.
   </div>
 
   <div style="margin-bottom: 20px;">
-    <strong>Student Researcher</strong>, March 2016 - February 2018.
-    <p><em>  Korea Aerospace Research Institute (KARI) </em></p> 
-    - 2 years of experience in supersonic combustion and turbomachinery research.  
-    Conducted fuel injector tests and combustion stability experiments for Supersonic Combustion RamJet (Scramjet) engines.  
+    <strong>Korea Aerospace Research Institute (KARI)</strong>
+    <p>Student Researcher, <em>March 2016 - February 2018.</em></p>  
+    - 2 years of experience in supersonic combustion and turbomachinery research.<br>  
+    Conducted fuel injector tests and combustion stability experiments for Supersonic Combustion RamJet (Scramjet) engines. <br> 
     Built image analysis scripts for laser diagnostic data (PDPA and PLIF) using MATLAB.
   </div>
 
   <div>
-    <strong>Sergeant, Aircraft Mechanics</strong>, February 2011 - February 2013.  
-    <p><em>  Republic of Korea Air Force </em></p> 
-    Completed 2-year mandatory military service and honorably discharged after 24 months as a Sergeant.
+    <strong>Republic of Korea Air Force</strong>,  
+    <p>Sergeant, Aircraft Mechanics, <em>February 2011 - February 2013. </em></p> 
+    Completed 2-year mandatory military service and honorably discharged after 24 months as a Sergeant.<br>
     Provided ground support and aircraft maintenance for E-737 AEW&C.      
   </div>
 </div>
