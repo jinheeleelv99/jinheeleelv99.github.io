@@ -25,22 +25,22 @@ I also have a keen interest in surgical robotics, especially in developing syste
 
 <p>Proficient in Python and PyTorch.</p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
-  <img src="/images/skills/python.png" alt="Python" title="Python" style="width:20px;">
-  <img src="/images/skills/java.png" alt="Java" title="Java" style="width:20px;">
-  <img src="/images/skills/cpp.png" alt="C++" title="C++" style="width:20px;">
-  <img src="/images/skills/csharp.png" alt="C#" title="C#" style="width:20px;">
-  <img src="/images/skills/matlab.png" alt="MATLAB" title="MATLAB" style="width:20px;">
-  <img src="/images/skills/pytorch.png" alt="PyTorch" title="PyTorch" style="width:20px;">
-  <img src="/images/skills/tensorflow.png" alt="TensorFlow" title="TensorFlow" style="width:20px;">
-  <img src="/images/skills/opencv.png" alt="OpenCV" title="OpenCV" style="width:20px;">
-  <img src="/images/skills/git.png" alt="Git" title="Git" style="width:20px;">
-  <img src="/images/skills/docker.png" alt="Docker" title="Docker" style="width:20px;">
-  <img src="/images/skills/linux.png" alt="Linux" title="Linux" style="width:20px;">
-  <img src="/images/skills/unity.png" alt="Unity" title="Unity Engine" style="width:20px;">
-  <img src="/images/skills/android.png" alt="Android Studio" title="Android Studio" style="width:20px;">
-  <img src="/images/skills/blender.png" alt="Blender" title="Blender" style="width:20px;">
-  <img src="/images/skills/latex.png" alt="LaTeX" title="LaTeX" style="width:20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 30px;">
+  <img src="/images/skills/python.png" alt="Python" title="Python" style="width:30px;">
+  <img src="/images/skills/java.png" alt="Java" title="Java" style="width:30px;">
+  <img src="/images/skills/cpp.png" alt="C++" title="C++" style="width:30px;">
+  <img src="/images/skills/csharp.png" alt="C#" title="C#" style="width:30px;">
+  <img src="/images/skills/matlab.png" alt="MATLAB" title="MATLAB" style="width:30px;">
+  <img src="/images/skills/pytorch.png" alt="PyTorch" title="PyTorch" style="width:30px;">
+  <img src="/images/skills/tensorflow.png" alt="TensorFlow" title="TensorFlow" style="width:30px;">
+  <img src="/images/skills/opencv.png" alt="OpenCV" title="OpenCV" style="width:30px;">
+  <img src="/images/skills/git.png" alt="Git" title="Git" style="width:30px;">
+  <img src="/images/skills/docker.png" alt="Docker" title="Docker" style="width:30px;">
+  <img src="/images/skills/linux.png" alt="Linux" title="Linux" style="width:30px;">
+  <img src="/images/skills/unity.png" alt="Unity" title="Unity Engine" style="width:30px;">
+  <img src="/images/skills/android.png" alt="Android Studio" title="Android Studio" style="width:30px;">
+  <img src="/images/skills/blender.png" alt="Blender" title="Blender" style="width:30px;">
+  <img src="/images/skills/latex.png" alt="LaTeX" title="LaTeX" style="width:30px;">
 </div>
 
 
@@ -83,7 +83,39 @@ I also have a keen interest in surgical robotics, especially in developing syste
 </div>
 
 
-Experience
+<h2 style="color:#666; margin-top: 40px;">Work Experience</h2>
 
+<div style="line-height: 1.8; max-width: 1000px; margin: 0 auto;">
+
+  <div style="margin-bottom: 20px;">
+    <strong>AI Research Collaborator</strong>, Stanford University & Bongseng Memorial Hospital  
+    ? Currently serving at the Surgical Innovation & Machine Interfacing Lab (SIMILab), Stanford University and the Bongseng AI Lab (BAIL), Bongseng Memorial Hospital since September 2024. 
+    Conducting supplementary experiments for research publications. Studying AI models for segmentation, depth estimation, and 3D reconstruction in surgical videos and scenes.
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <strong>AI Engineer</strong>, lululab Inc.  
+    - Working since 2022 on AI for human skin analysis and healthcare.  
+    Developed human skin simulation models for skin aging and trouble progression using Diffusion models and GANs.  
+    Built acne segmentation and pattern analysis modules. Developed a ChatGPT-based skin-specific chatbot.  
+    Implemented cosmetics & treatments recommendation system and seven-segment digit OCR for blood pressure registration.  
+    Developed personal color analysis models.
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <strong>Student Researcher</strong>, Korea Aerospace Research Institute (KARI)  
+    - 2 years of experience in supersonic combustion and turbomachinery research.  
+    Conducted fuel injector tests and combustion stability experiments for Scramjet engines.  
+    Built image analysis scripts for laser diagnostic data (PDPA and PLIF) using MATLAB.
+  </div>
+
+  <div>
+    <strong>Sergeant, Aircraft Mechanics</strong>, Republic of Korea Air Force  
+    - Completed 2-year mandatory military service.  
+    Provided ground support and aircraft maintenance for E-737 AEW&C.  
+    Honorably discharged after 24 months as a Sergeant.
+  </div>
+
+</div>
 [Example](https://academicpages.github.io/cv)  
 
