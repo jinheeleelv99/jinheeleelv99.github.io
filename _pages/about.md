@@ -58,17 +58,18 @@ In parallel, I currently participate in research projects as a research collabor
 <div style="margin-bottom: 30px;">
   <!-- <img src="/images/education/Ohio_State_University_Logo.png" alt="Ohio State Logo" style="width: 30px;"> -->
   <h3>Ohio State University</h3>
-  <p><em>Master of Science in Computer Science and Engineering</em></p>
+  <!-- <p><em>Master of Science in Computer Science and Engineering</em></p> -->
+  <em>Master of Science in Computer Science and Engineering</em><br>
   - Took courses about Artificial Intelligence, Algorithms, Operating Systems.<br>
   - Project: ML-based research on drug discovery for Alzheimer's Disease.<br>
-  
 </div>
 
 <!-- UST -->
 <div style="margin-bottom: 30px;">
   <!-- <img src="/images/education/ustLogo.png" alt="UST Logo" style="width: 30px;"> -->
   <h3>University of Science and Technology</h3>
-  <p><em>Master of Engineering in Aerospace System Engineering</em></p>
+  <!-- <p><em>Master of Engineering in Aerospace System Engineering</em></p> -->
+  <em>Master of Engineering in Aerospace System Engineering</em><<br>
   - Full-time research at the Korea Aerospace Research Institute (KARI).<br>
   - Studied Supersonic Combustion Engines and Wet Compression Compressor.<br>
   - Thesis: Study on the Spray Characteristics of Fuel Injectors for Scramjet Engines.<br>
@@ -78,7 +79,8 @@ In parallel, I currently participate in research projects as a research collabor
 <div style="margin-bottom: 30px;">
   <!-- <img src="/images/education/inhaLogo.jpg" alt="Inha Logo" style="width: 30px;"> -->
   <h3>Inha University</h3>
-  <p><em>Bachelor of Science in Aerospace Engineering</em></p>
+  <!-- <p><em>Bachelor of Science in Aerospace Engineering</em></p> -->
+  <em>Bachelor of Science in Aerospace Engineering</em><br>
   - Took courses about Fluid Dynamics, Aerodynamics, Structural Analysis, Propulsion system design, Control Systems, Linear Algebra and Vector Calculus.<br>
   - Ranked in the top 10% of the program, honored as a junior year student.<br>
   - Project: Unmanned Aerial Vehicle (UAV) Design and Flight Test of a Scaled Prototype.
@@ -91,14 +93,16 @@ In parallel, I currently participate in research projects as a research collabor
 
   <div style="margin-bottom: 20px;">
     <strong>Surgical Innovation & Machine Interfacing Lab (SIMILab), Stanford University and <br> Bongseng AI Lab (BAIL), Bongseng Memorial Hospital</strong>
-    <p>AI Research Collaborator,  <em>September 2024 - Present.</em></p>
+    <!-- <p>AI Research Collaborator,  <em>September 2024 - Present.</em></p> -->
+    AI Research Collaborator,  <em>September 2024 - Present.</em><br>
     - Studying AI models for segmentation, depth estimation, and 3D reconstruction in surgical videos and scenes.<br>
     - Running supplementary experiments for academic publications.<br>
   </div>
 
   <div style="margin-bottom: 20px;">
     <strong>AI Research Center, lululab Inc.</strong> 
-    <p>AI Engineer, <em>January 2022 - Present.</em></p>
+    <!-- <p>AI Engineer, <em>January 2022 - Present.</em></p> -->
+    AI Engineer, <em>January 2022 - Present.</em><br>
     - Developed generative models for simulating skin aging and conditions.<br>  
     - Built skin acne segmentation and pattern analysis modules.<br>
     - Developed a ChatGPT-based skin-specific chatbot.<br>  
@@ -108,7 +112,8 @@ In parallel, I currently participate in research projects as a research collabor
 
   <div style="margin-bottom: 20px;">
     <strong>Korea Aerospace Research Institute (KARI)</strong>
-    <p>Student Researcher, <em>March 2016 - February 2018.</em></p>  
+    <!-- <p>Student Researcher, <em>March 2016 - February 2018.</em></p>   -->
+    Student Researcher, <em>March 2016 - February 2018.</em><br> 
     - Conducted fuel injector tests and combustion stability experiments for Supersonic Combustion RamJet (Scramjet) engines. <br> 
     - Built image analysis scripts for laser diagnostic data (PDPA and PLIF) using MATLAB.
   </div>
@@ -116,7 +121,8 @@ In parallel, I currently participate in research projects as a research collabor
   <div style="margin-bottom: 20px;">
   <div>
     <strong>Republic of Korea Air Force</strong>,  
-    <p>Sergeant, Aircraft Mechanics, <em>February 2011 - February 2013. </em></p> 
+    <!-- <p>Sergeant, Aircraft Mechanics, <em>February 2011 - February 2013. </em></p>  -->
+    Sergeant, Aircraft Mechanics, <em>February 2011 - February 2013. </em><br> 
     - Completed 2-year mandatory military service and honorably discharged after 24 months as a Sergeant.<br>
     - Provided ground support and aircraft maintenance for E-737 AEW&C.      
   </div>
