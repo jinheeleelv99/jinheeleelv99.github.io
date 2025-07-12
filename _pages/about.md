@@ -11,7 +11,7 @@ redirect_from:
   Hi! I am Jinhee Lee, currently seeking a Ph.D. position where I can conduct research in computer vision, robotics, and AI for healthcare, with a particular focus on surgical applications.
 </p>
 
-I have 3 years of hands-on experience working at a healthcare AI company, mainly focusing on skin analysis. I’m also participating in collaborative research projects related to surgical AI with two groups: the SIMI Lab at Stanford University and BAIL at Bongseng Memorial Hospital.
+I have 3 years of hands-on experience working at a healthcare AI company, mainly focusing on AI-based skin diagnostics and dermatological analysis. I’m also participating in collaborative research projects related to surgical AI with two groups: the SIMI Lab at Stanford University and BAIL at Bongseng Memorial Hospital.
 
 I received my Master’s degree in Computer Science and Engineering from The Ohio State University. Before that, I worked in the aerospace engineering industry, focusing on supersonic combustion and aircraft engine research, after earning both my B.S. and my first M.S. in aerospace engineering. 
 
