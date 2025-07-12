@@ -11,10 +11,9 @@ redirect_from:
   I am currently seeking a Ph.D. position where I can conduct research in computer vision, robotics, and AI for healthcare, with a particular focus on surgical applications.
 </p>
 
-My research interest is in computer vision and medical AI. I have experience in medical image segmentation and generative modeling, developed through both academic research and real-world industry work. I am particularly interested in building AI systems that support surgeons during intraoperative decision-making and enhance preoperative diagnosis using medical imaging and patient data. <br>
-In addition, I am passionate about surgical robotics, especially the development of systems that enable safe, accessible surgeries in underserved or remote areas.
+My research interest is in computer vision and medical AI. I have experience in medical image segmentation and generative modeling, developed through both academic research and real-world industry work. I am particularly interested in building AI systems that support surgeons during intraoperative decision-making and enhance preoperative diagnosis using medical imaging and patient data. In addition, I am passionate about surgical robotics, especially the development of systems that enable safe, accessible surgeries in underserved or remote areas.
 
-I received my Master’s degree in Computer Science and Engineering from The Ohio State University. Before that, I worked in the aerospace engineering industry, focusing on supersonic combustion and aircraft engine research, after earning both my B.S. and my first M.S. in that field.
+I received my Master’s degree in Computer Science and Engineering from The Ohio State University. Before that, I worked in the aerospace engineering industry, focusing on supersonic combustion and aircraft engine research, after earning both my B.S. and my first M.S. in aerospace engineering. Currently, I work as an AI engineer at a healthcare AI company.
 
 
 <!-- I am currently working as an AI engineer at a healthcare startup in Korea, focusing on AI solutions for human skin analysis. 
@@ -52,8 +51,8 @@ In parallel, I currently participate in research projects as a research collabor
   <!-- <img src="/images/education/Ohio_State_University_Logo.png" alt="Ohio State Logo" style="width: 30px;"> -->
   <h3>Ohio State University</h3>
   <p><em>Master of Science in Computer Science and Engineering</em></p>
-  Took courses about Artificial Intelligence, Algorithms, Operating Systems.<br>
-  Project: ML-based research on drug discovery for Alzheimer's Disease.<br>
+  - Took courses about Artificial Intelligence, Algorithms, Operating Systems.<br>
+  - Project: ML-based research on drug discovery for Alzheimer's Disease.<br>
   
 </div>
 
@@ -62,9 +61,9 @@ In parallel, I currently participate in research projects as a research collabor
   <!-- <img src="/images/education/ustLogo.png" alt="UST Logo" style="width: 30px;"> -->
   <h3>University of Science and Technology</h3>
   <p><em>Master of Engineering in Aerospace System Engineering</em></p>
-  Full-time research at the Korea Aerospace Research Institute (KARI).<br>
-  Studied Supersonic Combustion Ramjet (ScramJet) engines and Wet Compression Compressor.<br>
-  Thesis: Study on the Spray Characteristics of Fuel Injectors for Scramjet Engines.<br>
+  - Full-time research at the Korea Aerospace Research Institute (KARI).<br>
+  - Studied Supersonic Combustion Engines and Wet Compression Compressor.<br>
+  - Thesis: Study on the Spray Characteristics of Fuel Injectors for Scramjet Engines.<br>
 </div>
 
 <!-- Inha University -->
@@ -72,9 +71,9 @@ In parallel, I currently participate in research projects as a research collabor
   <!-- <img src="/images/education/inhaLogo.jpg" alt="Inha Logo" style="width: 30px;"> -->
   <h3>Inha University</h3>
   <p><em>Bachelor of Science in Aerospace Engineering</em></p>
-  Took courses about Fluid Dynamics, Aerodynamics, Structural Analysis, Propulsion system design, Control Systems, Linear Algebra and Vector Calculus.<br>
-  Ranked in the top 10% of the program, honored as a junior year student.<br>
-  Project: Unmanned Aerial Vehicle (UAV) Design and Flight Test of a Scaled Prototype.
+  - Took courses about Fluid Dynamics, Aerodynamics, Structural Analysis, Propulsion system design, Control Systems, Linear Algebra and Vector Calculus.<br>
+  - Ranked in the top 10% of the program, honored as a junior year student.<br>
+  - Project: Unmanned Aerial Vehicle (UAV) Design and Flight Test of a Scaled Prototype.
 </div>
 
 
@@ -85,33 +84,33 @@ In parallel, I currently participate in research projects as a research collabor
   <div style="margin-bottom: 20px;">
     <strong>Surgical Innovation & Machine Interfacing Lab (SIMILab), Stanford University and <br> Bongseng AI Lab (BAIL), Bongseng Memorial Hospital</strong>
     <p>AI Research Collaborator,  <em>September 2024 - Present.</em></p>
-    Studying AI models for segmentation, depth estimation, and 3D reconstruction in surgical videos and scenes.<br>
-    Running supplementary experiments for academic publications.<br>
+    - Studying AI models for segmentation, depth estimation, and 3D reconstruction in surgical videos and scenes.<br>
+    - Running supplementary experiments for academic publications.<br>
   </div>
 
   <div style="margin-bottom: 20px;">
     <strong>AI Research Center, lululab Inc.</strong> 
     <p>AI Engineer, <em>January 2022 - Present.</em></p>
-    Developed skin aging and condition progression models using diffusion and GAN-based architectures.<br>  
-    Built skin acne segmentation and pattern analysis modules.<br>
-    Developed a ChatGPT-based skin-specific chatbot.<br>  
-    Implemented cosmetic & treatment recommendation systems.<br>
-    Contributed to OCR module development for blood pressure registration and personal color analysis models.<br>  
+    - Developed generative models for simulating skin aging and conditions.<br>  
+    - Built skin acne segmentation and pattern analysis modules.<br>
+    - Developed a ChatGPT-based skin-specific chatbot.<br>  
+    - Implemented cosmetic & treatment recommendation systems.<br>
+    - Contributed to OCR module development for blood pressure registration and personal color analysis models.<br>  
   </div>
 
   <div style="margin-bottom: 20px;">
     <strong>Korea Aerospace Research Institute (KARI)</strong>
     <p>Student Researcher, <em>March 2016 - February 2018.</em></p>  
-    Conducted fuel injector tests and combustion stability experiments for Supersonic Combustion RamJet (Scramjet) engines. <br> 
-    Built image analysis scripts for laser diagnostic data (PDPA and PLIF) using MATLAB.
+    - Conducted fuel injector tests and combustion stability experiments for Supersonic Combustion RamJet (Scramjet) engines. <br> 
+    - Built image analysis scripts for laser diagnostic data (PDPA and PLIF) using MATLAB.
   </div>
 
   <div style="margin-bottom: 20px;">
   <div>
     <strong>Republic of Korea Air Force</strong>,  
     <p>Sergeant, Aircraft Mechanics, <em>February 2011 - February 2013. </em></p> 
-    Completed 2-year mandatory military service and honorably discharged after 24 months as a Sergeant.<br>
-    Provided ground support and aircraft maintenance for E-737 AEW&C.      
+    - Completed 2-year mandatory military service and honorably discharged after 24 months as a Sergeant.<br>
+    - Provided ground support and aircraft maintenance for E-737 AEW&C.      
   </div>
 </div>
 
