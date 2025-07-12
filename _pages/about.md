@@ -8,14 +8,13 @@ redirect_from:
 ---
 
 <p style="color: #007acc;">
-  I am currently seeking a Ph.D. opportunity to pursue research in computer vision, robotics, and AI for healthcare, with a particular interest in surgical applications.
+  I am currently seeking a Ph.D. position where I can conduct research in computer vision, robotics, and AI for healthcare, with a particular focus on surgical applications.
 </p>
 
-
-My research interest is in computer vision and medical AI. My research interests lie at the intersection of computer vision and medical AI. I have hands-on experience in medical image segmentation and generative modeling, developed through both academic research and real-world industry work. I am particularly interested in building AI systems that support surgeons during intraoperative decision-making and enhance preoperative diagnosis using medical imaging and patient data. <br>
+My research interest is in computer vision and medical AI. I have experience in medical image segmentation and generative modeling, developed through both academic research and real-world industry work. I am particularly interested in building AI systems that support surgeons during intraoperative decision-making and enhance preoperative diagnosis using medical imaging and patient data. <br>
 In addition, I am passionate about surgical robotics, especially the development of systems that enable safe, accessible surgeries in underserved or remote areas.
 
-I received my Master’s degree in Computer Science and Engineering from The Ohio State University. Before that, I worked in the aerospace engineering industry, focusing on supersonic combustion and aircraft engine research, after earning both my B.S. and my first M.S. in that field. Currently, I have been working as an AI engineer and researcher in the healthcare industry for the past four years.
+I received my Master’s degree in Computer Science and Engineering from The Ohio State University. Before that, I worked in the aerospace engineering industry, focusing on supersonic combustion and aircraft engine research, after earning both my B.S. and my first M.S. in that field.
 
 
 <!-- I am currently working as an AI engineer at a healthcare startup in Korea, focusing on AI solutions for human skin analysis. 
