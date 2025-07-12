@@ -8,12 +8,20 @@ redirect_from:
 ---
 
 <p style="color: #007acc;">
-  I am currently seeking a Ph.D. position where I can conduct research in computer vision, robotics, and AI for healthcare, with a particular focus on surgical applications.
+  Hi! I am Jinhee Lee, currently seeking a Ph.D. position where I can conduct research in computer vision, robotics, and AI for healthcare, with a particular focus on surgical applications.
 </p>
 
-My research interest is in computer vision and medical AI. I have experience in medical image segmentation and generative modeling, developed through both academic research and real-world industry work. I am particularly interested in building AI systems that support surgeons during intraoperative decision-making and enhance preoperative diagnosis using medical imaging and patient data. In addition, I am passionate about surgical robotics, especially the development of systems that enable safe, accessible surgeries in underserved or remote areas.
+I have 3 years of hands-on experience working at a healthcare AI company, mainly focusing on skin analysis. I’m also participating in collaborative research projects related to surgical AI with two groups: the SIMI Lab at Stanford University and BAIL at Bongseng Memorial Hospital.
 
-I received my Master’s degree in Computer Science and Engineering from The Ohio State University. Before that, I worked in the aerospace engineering industry, focusing on supersonic combustion and aircraft engine research, after earning both my B.S. and my first M.S. in aerospace engineering. Currently, I work as an AI engineer at a healthcare AI company.
+I received my Master’s degree in Computer Science and Engineering from The Ohio State University. Before that, I worked in the aerospace engineering industry, focusing on supersonic combustion and aircraft engine research, after earning both my B.S. and my first M.S. in aerospace engineering. 
+
+My research interests focus on AI systems that support surgeons during intraoperative decision-making and enhance preoperative diagnosis, using medical imaging and patient data. I’m also interested in surgical robotics, particularly in technologies that aim to improve surgical accessibility and safety.
+
+<!-- My research interest is in computer vision and medical AI. I have experience in medical image segmentation and generative modeling, developed through both academic research and real-world industry work. I am particularly interested in building AI systems that support surgeons during intraoperative decision-making and enhance preoperative diagnosis using medical imaging and patient data. In addition, I am passionate about surgical robotics, especially the development of systems that enable safe, accessible surgeries in underserved or remote areas. -->
+
+
+
+<!-- I received my Master’s degree in Computer Science and Engineering from The Ohio State University. Before that, I worked in the aerospace engineering industry, focusing on supersonic combustion and aircraft engine research, after earning both my B.S. and my first M.S. in aerospace engineering. Currently, I work as an AI engineer at a healthcare AI company. I am also  and in parallel,  -->
 
 
 <!-- I am currently working as an AI engineer at a healthcare startup in Korea, focusing on AI solutions for human skin analysis. 
