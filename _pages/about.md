@@ -11,11 +11,14 @@ redirect_from:
   I am currently seeking a Ph.D. opportunity to pursue research in computer vision, robotics, and AI for healthcare, with a particular interest in surgical applications.
 </p>
 
-My research interest is in computer vision and medical AI. My research interests lie at the intersection of computer vision and medical AI. I have hands-on experience in medical image segmentation and generative modeling, developed through both academic research and real-world industry work. I am particularly interested in building AI systems that support surgeons during intraoperative decision-making and enhance preoperative diagnosis using medical imaging and patient data. </br>
-In addition, I am passionate about surgical robotics, especially the development of systems that enable safe, accessible surgeries in underserved or remote areas.
+<div>
+  My research interest is in computer vision and medical AI. My research interests lie at the intersection of computer vision and medical AI. I have hands-on experience in medical image segmentation and generative modeling, developed through both academic research and real-world industry work. I am particularly interested in building AI systems that support surgeons during intraoperative decision-making and enhance preoperative diagnosis using medical imaging and patient data. </br>
+  In addition, I am passionate about surgical robotics, especially the development of systems that enable safe, accessible surgeries in underserved or remote areas.
+</div>
 
-I received my Master’s degree in Computer Science and Engineering from The Ohio State University. Before that, I worked in the aerospace engineering industry, focusing on supersonic combustion and aircraft engine research, after earning both my B.S. and my first M.S. in that field. Currently, I have been working as an AI engineer and researcher in the healthcare industry for the past four years.
-
+<div>
+  I received my Master’s degree in Computer Science and Engineering from The Ohio State University. Before that, I worked in the aerospace engineering industry, focusing on supersonic combustion and aircraft engine research, after earning both my B.S. and my first M.S. in that field. Currently, I have been working as an AI engineer and researcher in the healthcare industry for the past four years.
+</div>
 
 <!-- I am currently working as an AI engineer at a healthcare startup in Korea, focusing on AI solutions for human skin analysis. 
 In parallel, I currently participate in research projects as a research collaborator with Bongseng Memorial Hospital and the Stanford University Surgical Innovation & Machine Interface (SIMI) Lab, developing surgical AI applications for intraoperative neurosurgical procedures such as microvascular decompression (MVD). -->
@@ -52,8 +55,10 @@ In parallel, I currently participate in research projects as a research collabor
   <!-- <img src="/images/education/Ohio_State_University_Logo.png" alt="Ohio State Logo" style="width: 30px;"> -->
   <h3>Ohio State University</h3>
   <p><em>Master of Science in Computer Science and Engineering</em></p>
-  Took courses about Artificial Intelligence, Algorithms, Operating Systems.</br>
-  Project: ML-based research on drug discovery for Alzheimer's Disease.</br>
+  <div>
+    Took courses about Artificial Intelligence, Algorithms, Operating Systems.</br>
+    Project: ML-based research on drug discovery for Alzheimer's Disease.
+  </div>
   
 </div>
 
@@ -62,9 +67,11 @@ In parallel, I currently participate in research projects as a research collabor
   <!-- <img src="/images/education/ustLogo.png" alt="UST Logo" style="width: 30px;"> -->
   <h3>University of Science and Technology</h3>
   <p><em>Master of Engineering in Aerospace System Engineering</em></p>
-  Full-time research at the Korea Aerospace Research Institute (KARI).</br>
-  Studied Supersonic Combustion Ramjet (ScramJet) engines and Wet Compression Compressor.</br>
-  Thesis: Study on the Spray Characteristics of Fuel Injectors for Scramjet Engines.</br>
+  <div>
+    Full-time research at the Korea Aerospace Research Institute (KARI).</br>
+    Studied Supersonic Combustion Ramjet (ScramJet) engines and Wet Compression Compressor.</br>
+    Thesis: Study on the Spray Characteristics of Fuel Injectors for Scramjet Engines.
+  </div>
 </div>
 
 <!-- Inha University -->
