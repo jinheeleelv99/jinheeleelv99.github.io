@@ -68,8 +68,8 @@ In parallel, I currently participate in research projects as a research collabor
     <h3>Ohio State University</h3>
     <p><em>Master of Science in Computer Science and Engineering</em></p>
     <ul style="margin: 0; padding-left: 20px;">
-      <li>Took courses about Artificial Intelligence, Algorithms, Operating Systems.</li>
       <li>Project: ML-based research on drug discovery for Alzheimer's Disease.</li>
+      <li>Courses: Artificial Intelligence, Graphics, Algorithms, Operating Systems.</li>
     </ul>
   </div>
   <div>
@@ -99,13 +99,13 @@ In parallel, I currently participate in research projects as a research collabor
     <h3>Inha University</h3>
     <p><em>Bachelor of Science in Aerospace Engineering</em></p>
     <ul style="margin: 0; padding-left: 20px;">
-      <li>Took courses in Fluid Dynamics, Aerodynamics, Structural Analysis, Propulsion System Design, Control Systems, Linear Algebra, and Vector Calculus.</li>
       <li>Ranked in the top 10% of the program, honored as a junior year student.</li>
       <li>Project: Unmanned Aerial Vehicle (UAV) Design and Flight Test of a Scaled Prototype.</li>
+      <li>Courses: Fluid Dynamics, Aerodynamics, Structural Analysis, Propulsion System Design, Control Systems, Linear Algebra, and Vector Calculus.</li>
     </ul>
   </div>
   <div>
-    <img src="/images/education/inhaLogo.jpg" alt="Inha Logo" style="width: 240px; height: auto; margin-left: 20px;">
+    <img src="/images/education/inhaLogo.jpg" alt="Inha Logo" style="width: 200px; height: auto; margin-left: 20px;">
   </div>
 </div>
 
@@ -135,33 +135,41 @@ In parallel, I currently participate in research projects as a research collabor
   <div style="margin-bottom: 20px;">
     <strong>Surgical Innovation & Machine Interfacing Lab (SIMILab), Stanford University and <br> Bongseng AI Lab (BAIL), Bongseng Memorial Hospital</strong>
     <p>AI Research Collaborator,  <em>September 2024 - Present.</em></p>
-    - Studying AI models for segmentation, depth estimation, and 3D reconstruction in surgical videos and scenes.<br>
-    - Running supplementary experiments for academic publications.<br>
+    <ul style="margin: 0; padding-left: 20px;">
+      <li>Studying AI models for segmentation, depth estimation, and 3D reconstruction in surgical videos and scenes.</li>
+      <li>Running supplementary experiments for academic publications.</li>
+    </ul>
   </div>
 
   <div style="margin-bottom: 20px;">
     <strong>AI Research Center, lululab Inc.</strong> 
     <p>AI Engineer, <em>January 2022 - Present.</em></p>
-    - Developed generative models for simulating skin aging and conditions.<br>  
-    - Built skin acne segmentation and pattern analysis modules.<br>
-    - Developed a ChatGPT-based skin-specific chatbot.<br>  
-    - Implemented cosmetic & treatment recommendation systems.<br>
-    - Contributed to OCR module development for blood pressure registration and personal color analysis models.<br>  
+    <ul style="margin: 0; padding-left: 20px;">
+      <li>Developed generative models for simulating skin aging and conditions.</li>
+      <li>Built skin acne segmentation and pattern analysis modules.</li>
+      <li>Developed a ChatGPT-based skin-specific chatbot.</li>
+      <li>Implemented cosmetic & treatment recommendation systems.</li>
+      <li>Contributed to OCR module development for blood pressure registration and personal color analysis models.</li>
+    </ul>
   </div>
 
   <div style="margin-bottom: 20px;">
     <strong>Korea Aerospace Research Institute (KARI)</strong>
-    <p>Student Researcher, <em>March 2016 - February 2018.</em></p>  
-    - Conducted fuel injector tests and combustion stability experiments for Supersonic Combustion RamJet (Scramjet) engines. <br> 
-    - Built image analysis scripts for laser diagnostic data (PDPA and PLIF) using MATLAB.
+    <p>Student Researcher, <em>March 2016 - February 2018.</em></p> 
+    <ul style="margin: 0; padding-left: 20px;">
+      <li>Conducted fuel injector tests and combustion stability experiments for Supersonic Combustion RamJet (Scramjet) engines.</li>
+      <li>Built image analysis scripts for laser diagnostic data (PDPA and PLIF) using MATLAB.</li>
+    </ul> 
   </div>
 
   <div style="margin-bottom: 20px;">
   <div>
     <strong>Republic of Korea Air Force</strong>,  
     <p>Sergeant, Aircraft Mechanics, <em>February 2011 - February 2013. </em></p> 
-    - Completed 2-year mandatory military service and honorably discharged after 24 months as a Sergeant.<br>
-    - Provided ground support and aircraft maintenance for E-737 AEW&C.      
+    <ul style="margin: 0; padding-left: 20px;">
+      <li>Completed 2-year mandatory military service and honorably discharged after 24 months as a Sergeant.</li>
+      <li>Provided ground support and aircraft maintenance for E-737 AEW&C.</li>
+    </ul>  
   </div>
 </div>
 
