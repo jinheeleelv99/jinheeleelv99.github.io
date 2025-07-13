@@ -6,93 +6,6 @@ excerpt: |
 collection: portfolio
 ---
 
-<!DOCTYPE html>
-<html>
-<!-- <head>
-  <meta charset="utf-8">
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-PYVRSFMDRL"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-
-    gtag('js', new Date());
-
-    gtag('config', 'G-PYVRSFMDRL');
-  </script>
-
-  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
-        rel="stylesheet">
-
-  <link rel="stylesheet" href="./static/css/bulma.min.css">
-  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
-  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
-  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
-  <link rel="stylesheet"
-        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-  <link rel="stylesheet" href="./static/css/index.css">
-
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script defer src="./static/js/fontawesome.all.min.js"></script>
-  <script src="./static/js/bulma-carousel.min.js"></script>
-  <script src="./static/js/bulma-slider.min.js"></script>
-  <script src="./static/js/index.js"></script>
-</head> -->
-<body>
-
-<section class="hero">
-  <div class="hero-body">
-    <div class="container is-max-desktop">
-      <div class="columns is-centered">
-        <div class="column has-text-centered">
-          <!-- <h1 class="title is-1 publication-title">Deep learning-based skin care product recommendation A focus on cosmetic ingredient analysis and facial skin conditions</h1> -->
-          <!-- <div class="is-size-5 publication-authors">
-            <span class="author-block">
-              Jinhee Lee</a>,
-            </span>           
-            <span class="author-block">
-              Huisu Yoon</a>,
-            </span>
-            <span class="author-block">
-             Semin Kim</a>,
-            </span>
-            <span class="author-block">
-              Chanhyeok Lee</a>,
-            </span>
-            <span class="author-block">
-              Jongha Lee</a>,
-            </span>
-            <span class="author-block">
-              Sangwook Yoo</a>
-            </span>                        
-          </div>
-
-          <div class="is-size-5 publication-authors">
-            <span class="author-block">lululab Inc.</span>
-          </div>
-
-          <div class="column has-text-centered">
-            <div class="publication-links">             
-              <span class="link-block">
-                <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/jocd.16218"
-                   class="external-link button is-normal is-rounded is-dark">
-                  <span class="icon">
-                      <i class="fas fa-file-pdf"></i>
-                  </span>
-                  <span>Paper</span>
-                </a>
-              </span> 
-            </div>
-          </div> -->
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-
 <section class="section">
   <div class="container is-max-desktop">    
     <!-- About This Work. -->
@@ -117,13 +30,30 @@ collection: portfolio
     <div class="columns is-centered">
       <div class="column">
         <div class="content">
-          <h2 class="title is-3 has-text-centered">Skin Analysis</h2>
+          <h2 class="title is-3 has-text-centered">Pipeline Overview</h2>
           <p style="margin-bottom: 30px;">
-            Our skin analysis models perform segmentation on six skin concerns: pores, redness, acne, wrinkles, pigmentation, and dark circles. 
-            Additionally, the segmentation model quantifies the results into numerical scores for better evaluation.
+            Our pipeline estimates absolute intraoperative distances from monocular surgical video in microvascular decompression (MVD) procedures.
+            We leveraged a pretrained monocular depth estimation model (Depth-Anything-V2), and converted the resulting relative depth maps into metric-scale distance values using microscope-specific calibration parameters.
+            To determine meaningful points, we extract the centroids of key anatomical structures segmented by SAM2, and compute distances at those locations.  
           </p>
           <p style="margin-bottom: 30px;">
-          <img src="/images/CosmeticRecommendation/skinAnalysis.png" alt="skin analysis" style="max-width:100%; height:auto; display:block; margin-top: 20px; margin:0 auto;">
+          <img src="/images/AbsoluteDepthMVD/Figure2.png" style="max-width:100%; height:auto; display:block; margin-top: 20px; margin:0 auto;">
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="columns is-centered">
+      <div class="column">
+        <div class="content">
+          <h2 class="title is-3 has-text-centered">Pipeline Overview</h2>
+          <p style="margin-bottom: 30px;">
+            Our pipeline estimates absolute intraoperative distances from monocular surgical video in microvascular decompression (MVD) procedures.
+            We leveraged a pretrained monocular depth estimation model (Depth-Anything-V2), and converted the resulting relative depth maps into metric-scale distance values using microscope-specific calibration parameters.
+            To determine meaningful points, we extract the centroids of key anatomical structures segmented by SAM2, and compute distances at those locations.  
+          </p>
+          <p style="margin-bottom: 30px;">
+          <img src="/images/AbsoluteDepthMVD/Figure2.png" style="max-width:100%; height:auto; display:block; margin-top: 20px; margin:0 auto;">
           </p>
         </div>
       </div>
@@ -134,29 +64,33 @@ collection: portfolio
         <div class="columns is-centered">          
           <div class="columns">
             <div class="content">
-              <h2 class="title is-3 has-text-centered">Recommendation Module</h2>
+              <h2 class="title is-3 has-text-centered">Method</h2>
               <p style="margin-bottom: 30px;">
-                The Recommendation Engine matches a user's skin condition scores with the predicted ingredient effectiveness to rank and suggest the most suitable skincare products. 
-               By aligning individual skin concerns with optimal ingredient formulations, it ensures scientifically informed, data-driven recommendations rather than relying solely on user reviews or marketing claims.           
+                We validated the geometric consistency of our estimated depth maps by aligning them with both preoperative 3D reconstructions from 3D Slicer and intraoperative surgical images.
               </p>
               <p style="margin-bottom: 30px;">
-              <img src="/images/CosmeticRecommendation/overview.png" alt="Overview Image" style="max-width:100%; height:auto; display:block; margin-top: 20px; margin:0 auto;">
-               </p>
-               <p style="margin-bottom: 30px;">
-               Representation of cosmetic ingredients on product labels.           
+              <img src="/images/AbsoluteDepthMVD/Figure5.png" style="max-width:100%; height:auto; display:block; margin-top: 20px; margin:0 auto;">
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+    <section class="section">
+      <div class="container is-max-desktop">    
+        <div class="columns is-centered">          
+          <div class="columns">
+            <div class="content">
+              <h2 class="title is-3 has-text-centered">Results</h2>
+              <p style="margin-bottom: 30px;">
+                We estimated absolute distances between key anatomical structures using our depth model and compared them against intraoperative microscope measurements and preoperative 3D Slicer reconstructions.
+                The predicted distances showed strong agreement with both references, with an average error of approximately 2 mm across cases.
               </p>
               <p style="margin-bottom: 30px;">
-              <img src="/images/CosmeticRecommendation/ingredients.png" alt="ingredients Image" style="max-width:100%; height:auto; display:block; margin-top: 20px; margin:0 auto;">
-               </p>
-               <p style="margin-bottom: 30px;">
-                User-product matching strategy using vector representations and cosine similarity.          
+              <img src="/images/AbsoluteDepthMVD/results.png" style="max-width:100%; height:auto; display:block; margin-top: 20px; margin:0 auto;">
               </p>
-              <p style="margin-bottom: 60px;">
-              <img src="/images/CosmeticRecommendation/similarity.png" alt="Similarity Image" style="max-width:100%; height:auto; display:block; margin-top: 20px; margin:0 auto;">
-              </p>
-              <p style="margin-bottom: 30px;">
-              <img src="/images/CosmeticRecommendation/recommendation.png" alt="Recommendation Image" style="max-width:100%; height:auto; display:block; margin-top: 20px; margin:0 auto;">
-               </p>
             </div>
           </div>
         </div>
@@ -166,46 +100,17 @@ collection: portfolio
 </section>
 
 
-<section class="section">
-  <div class="container is-max-desktop">    
-    <!-- About This Work. -->
-    <div class="columns">
-      <div class="column is-full">
-        <h2 class="title is-3 has-text-centered">Recommendation Results</h2>        
-         <p style="margin-bottom: 20px;">
-        <img src="/images/CosmeticRecommendation/example1.png" alt="Result Image1" style="max-width:100%; height:auto; display:block; margin-top: 20px; margin:0 auto;">
-         </p>
-         <p style="margin-bottom: 20px;">
-         <img src="/images/CosmeticRecommendation/example2.png" alt="Result Image2" style="max-width:100%; height:auto; display:block; margin-top: 20px; margin:0 auto;">
-         </p>
-         <p style="margin-bottom: 30px;">
-         <img src="/images/CosmeticRecommendation//example3.png" alt="Result Image3" style="max-width:100%; height:auto; display:block; margin-top: 20px; margin:0 auto;">
-         </p> 
-          Performance of Cosmetic Ingredient Analyzer. 
-         <p style="margin-bottom: 20px;">
-         <img src="/images/CosmeticRecommendation/table2.png" alt="QR Image2" style="max-width:100%; height:auto; display:block; margin-top: 20px; margin:0 auto;">
-         </p>
-
-      </div>
-    </div>
-    <!--/ About This Work. -->
-  </div>
-</section>
-
-
 <section class="section" id="BibTeX">
   <div class="container is-max-desktop content">
     <h2 class="title">BibTeX</h2>
-    <pre><code>@article{lee2024deep,
-  title={Deep learning-based skin care product recommendation: A focus on cosmetic ingredient analysis and facial skin conditions},
-  author={Lee, Jinhee and Yoon, Huisu and Kim, Semin and Lee, Chanhyeok and Lee, Jongha and Yoo, Sangwook},
-  journal={Journal of Cosmetic Dermatology},
-  volume={23},
-  number={6},
-  pages={2066--2077},
-  year={2024},
-  publisher={Wiley Online Library}
-}</code></pre>
+    <pre><code>@inproceedings{lee2025intraoperative,
+      title={Intraoperative Absolute Depth Estimation in MVD Surgery},
+      author={Lee, Jinhee and Lee, Hwanhee and Park, Jay J and Htun, Ethan and Xu, Bruce Changlong and Cho, Sang Hoon and Lee, Sanghoon and Buch, Vivek P},
+      booktitle={2025 IEEE 38th International Symposium on Computer-Based Medical Systems (CBMS)},
+      pages={341--342},
+      year={2025},
+      organization={IEEE}}
+    </code></pre>
   </div>
 </section>
 
@@ -228,6 +133,3 @@ collection: portfolio
     </div>
   </div>
 </footer>
-
-</body>
-</html>
