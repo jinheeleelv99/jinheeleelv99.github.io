@@ -52,17 +52,8 @@ In parallel, I currently participate in research projects as a research collabor
 </div>
 
 
-<h2 style="color:#666; margin-top: 20px;">Education</h2>
+<h2 style="color:#666; margin-top: 40px;">Education</h2>
 
-<!-- Ohio State -->
-<!-- <div style="margin-bottom: 30px;">
-  <h3>Ohio State University</h3>
-  <p><em>Master of Science in Computer Science and Engineering</em></p>
-  - Took courses about Artificial Intelligence, Algorithms, Operating Systems.<br>
-  - Project: ML-based research on drug discovery for Alzheimer's Disease.<br>
-</div> -->
-
-<!-- Ohio State University -->
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 30px;">
   <div>
     <h3>Ohio State University</h3>
@@ -77,7 +68,6 @@ In parallel, I currently participate in research projects as a research collabor
   </div>
 </div>
 
-<!-- UST -->
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 30px;">
   <div>
     <h3>University of Science and Technology</h3>
@@ -93,7 +83,6 @@ In parallel, I currently participate in research projects as a research collabor
   </div>
 </div>
 
-<!-- Inha University -->
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 30px;">
   <div>
     <h3>Inha University</h3>
@@ -109,30 +98,12 @@ In parallel, I currently participate in research projects as a research collabor
   </div>
 </div>
 
-<!-- UST -->
-<!-- <div style="margin-bottom: 30px;">
-  <h3>University of Science and Technology</h3>
-  <p><em>Master of Engineering in Aerospace System Engineering</em></p>
-  - Full-time research at the Korea Aerospace Research Institute (KARI).<br>
-  - Studied Supersonic Combustion Engines and Wet Compression Compressor.<br>
-  - Thesis: Study on the Spray Characteristics of Fuel Injectors for Scramjet Engines.<br>
-</div> -->
-
-<!-- Inha University -->
-<!-- <div style="margin-bottom: 30px;">
-  <h3>Inha University</h3>
-  <p><em>Bachelor of Science in Aerospace Engineering</em></p>
-  - Took courses about Fluid Dynamics, Aerodynamics, Structural Analysis, Propulsion system design, Control Systems, Linear Algebra and Vector Calculus.<br>
-  - Ranked in the top 10% of the program, honored as a junior year student.<br>
-  - Project: Unmanned Aerial Vehicle (UAV) Design and Flight Test of a Scaled Prototype.
-</div> -->
-
 
 <h2 style="color:#666; margin-top: 40px;">Work Experience</h2>
 
 <div style="line-height: 1.8; max-width: 1500px; margin: 0 auto;">
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 30px;">
     <strong>Surgical Innovation & Machine Interfacing Lab (SIMILab), Stanford University and <br> Bongseng AI Lab (BAIL), Bongseng Memorial Hospital</strong>
     <p>AI Research Collaborator,  <em>September 2024 - Present.</em></p>
     <ul style="margin: 0; padding-left: 20px;">
@@ -141,7 +112,7 @@ In parallel, I currently participate in research projects as a research collabor
     </ul>
   </div>
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 30px;">
     <strong>AI Research Center, lululab Inc.</strong> 
     <p>AI Engineer, <em>January 2022 - Present.</em></p>
     <ul style="margin: 0; padding-left: 20px;">
@@ -153,7 +124,7 @@ In parallel, I currently participate in research projects as a research collabor
     </ul>
   </div>
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 30px;">
     <strong>Korea Aerospace Research Institute (KARI)</strong>
     <p>Student Researcher, <em>March 2016 - February 2018.</em></p> 
     <ul style="margin: 0; padding-left: 20px;">
@@ -162,7 +133,7 @@ In parallel, I currently participate in research projects as a research collabor
     </ul> 
   </div>
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 30px;">
   <div>
     <strong>Republic of Korea Air Force</strong>,  
     <p>Sergeant, Aircraft Mechanics, <em>February 2011 - February 2013. </em></p> 
