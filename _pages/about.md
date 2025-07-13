@@ -52,7 +52,7 @@ In parallel, I currently participate in research projects as a research collabor
 </div>
 
 
-<h2 style="color:#666; margin-top: 40px;">Education</h2>
+<h2 style="color:#666; margin-top: 20px;">Education</h2>
 
 <!-- Ohio State -->
 <!-- <div style="margin-bottom: 30px;">
@@ -63,7 +63,7 @@ In parallel, I currently participate in research projects as a research collabor
 </div> -->
 
 <!-- Ohio State University -->
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 30px;">
   <div>
     <h3>Ohio State University</h3>
     <p><em>Master of Science in Computer Science and Engineering</em></p>
@@ -78,7 +78,7 @@ In parallel, I currently participate in research projects as a research collabor
 </div>
 
 <!-- UST -->
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 30px;">
   <div>
     <h3>University of Science and Technology</h3>
     <p><em>Master of Engineering in Aerospace System Engineering</em></p>
@@ -94,7 +94,7 @@ In parallel, I currently participate in research projects as a research collabor
 </div>
 
 <!-- Inha University -->
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 30px;">
   <div>
     <h3>Inha University</h3>
     <p><em>Bachelor of Science in Aerospace Engineering</em></p>
