@@ -55,12 +55,30 @@ In parallel, I currently participate in research projects as a research collabor
 <h2 style="color:#666; margin-top: 40px;">Education</h2>
 
 <!-- Ohio State -->
-<div style="margin-bottom: 30px;">
-  <!-- <img src="/images/education/Ohio_State_University_Logo.png" alt="Ohio State Logo" style="width: 30px;"> -->
+<!-- <div style="margin-bottom: 30px;">
   <h3>Ohio State University</h3>
   <p><em>Master of Science in Computer Science and Engineering</em></p>
   - Took courses about Artificial Intelligence, Algorithms, Operating Systems.<br>
   - Project: ML-based research on drug discovery for Alzheimer's Disease.<br>
+</div> -->
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 30px;">
+  
+  <!-- Left: Textual Info -->
+  <div>
+    <h3>Ohio State University</h3>
+    <p><em>Master of Science in Computer Science and Engineering</em></p>
+    <ul style="margin: 0; padding-left: 20px;">
+      <li>Took courses about Artificial Intelligence, Algorithms, Operating Systems.</li>
+      <li>Project: ML-based research on drug discovery for Alzheimer's Disease.</li>
+    </ul>
+  </div>
+
+  <!-- Right: School Logo -->
+  <div>
+    <img src="/images/education/Ohio_State_University_Logo.png" alt="Ohio State Logo" style="width: 80px; height: auto; margin-left: 20px;">
+  </div>
+
 </div>
 
 <!-- UST -->
