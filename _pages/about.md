@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="color: #007acc;">
-  Hi! I am Jinhee Lee, currently seeking a Ph.D. position to explore research in computer vision, robotics, and biomedical AI for healthcare.
+  Hi! I am Jinhee, currently seeking a Ph.D. position to explore research in computer vision, robotics, and biomedical AI for healthcare.
 </p>
 
 I have 3 years of hands-on experience working at a healthcare AI company, mainly focusing on AI-based skin diagnostics and dermatological analysis. I’m also participating in collaborative research projects related to surgical AI with the SIMI Lab at Stanford University and BAIL at Bongseng Memorial Hospital.
