@@ -105,7 +105,7 @@ In parallel, I currently participate in research projects as a research collabor
     </ul>
   </div>
   <div>
-    <img src="/images/education/inhaLogo.jpg" alt="Inha Logo" style="width: 80px; height: auto; margin-left: 20px;">
+    <img src="/images/education/inhaLogo.jpg" alt="Inha Logo" style="width: 160px; height: auto; margin-left: 20px;">
   </div>
 </div>
 
