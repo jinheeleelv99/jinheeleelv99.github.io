@@ -99,22 +99,27 @@ In parallel, I currently participate in research projects as a research collabor
 </div>
 
 
+
+
 <h2 style="color:#666; margin-top: 40px;">Work Experience</h2>
 
-<div style="line-height: 1.8; max-width: 1500px; margin: 0 auto;">
-
-  <div style="margin-bottom: 30px;">
-    <strong>Surgical Innovation & Machine Interfacing Lab (SIMILab), Stanford University and <br> Bongseng AI Lab (BAIL), Bongseng Memorial Hospital</strong>
-    <p>AI Research Collaborator,  <em>September 2024 - Present.</em></p>
+<!-- Work Experience Entry -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 30px;">
+  <div>
+    <h3>Surgical Innovation & Machine Interfacing Lab (SIMILab), Stanford University<br> & Bongseng AI Lab (BAIL), Bongseng Memorial Hospital</h3>
+    <p><em>AI Research Collaborator, September 2024 - Present</em></p>
     <ul style="margin: 0; padding-left: 20px;">
       <li>Studying AI models for segmentation, depth estimation, and 3D reconstruction in surgical videos and scenes.</li>
       <li>Running supplementary experiments for academic publications.</li>
     </ul>
   </div>
+</div>
 
-  <div style="margin-bottom: 30px;">
-    <strong>AI Research Center, lululab Inc.</strong> 
-    <p>AI Engineer, <em>January 2022 - Present.</em></p>
+<!-- Entry 2 -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 30px;">
+  <div>
+    <h3>AI Research Center, lululab Inc.</h3>
+    <p><em>AI Engineer, January 2022 - Present</em></p>
     <ul style="margin: 0; padding-left: 20px;">
       <li>Developed generative models for simulating skin aging and conditions.</li>
       <li>Built skin acne segmentation and pattern analysis modules.</li>
@@ -123,25 +128,29 @@ In parallel, I currently participate in research projects as a research collabor
       <li>Contributed to OCR module development for blood pressure registration and personal color analysis models.</li>
     </ul>
   </div>
+</div>
 
-  <div style="margin-bottom: 30px;">
-    <strong>Korea Aerospace Research Institute (KARI)</strong>
-    <p>Student Researcher, <em>March 2016 - February 2018.</em></p> 
+<!-- Entry 3 -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 30px;">
+  <div>
+    <h3>Korea Aerospace Research Institute (KARI)</h3>
+    <p><em>Student Researcher, March 2016 - February 2018</em></p>
     <ul style="margin: 0; padding-left: 20px;">
       <li>Conducted fuel injector tests and combustion stability experiments for Supersonic Combustion RamJet (Scramjet) engines.</li>
       <li>Built image analysis scripts for laser diagnostic data (PDPA and PLIF) using MATLAB.</li>
-    </ul> 
-  </div>
-
-  <div style="margin-bottom: 30px;">
-  <div>
-    <strong>Republic of Korea Air Force</strong>,  
-    <p>Sergeant, Aircraft Mechanics, <em>February 2011 - February 2013. </em></p> 
-    <ul style="margin: 0; padding-left: 20px;">
-      <li>Completed 2-year mandatory military service and honorably discharged after 24 months as a Sergeant.</li>
-      <li>Provided ground support and aircraft maintenance for E-737 AEW&C.</li>
-    </ul>  
+    </ul>
   </div>
 </div>
 
+<!-- Entry 4 -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 30px;">
+  <div>
+    <h3>Republic of Korea Air Force</h3>
+    <p><em>Sergeant, Aircraft Mechanics, February 2011 - February 2013</em></p>
+    <ul style="margin: 0; padding-left: 20px;">
+      <li>Completed 2-year mandatory military service and honorably discharged after 24 months as a Sergeant.</li>
+      <li>Provided ground support and aircraft maintenance for E-737 AEW&C.</li>
+    </ul>
+  </div>
+</div>
 
