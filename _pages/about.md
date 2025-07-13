@@ -62,9 +62,8 @@ In parallel, I currently participate in research projects as a research collabor
   - Project: ML-based research on drug discovery for Alzheimer's Disease.<br>
 </div> -->
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 30px;">
-  
-  <!-- Left: Textual Info -->
+<!-- Ohio State University -->
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px;">
   <div>
     <h3>Ohio State University</h3>
     <p><em>Master of Science in Computer Science and Engineering</em></p>
@@ -73,33 +72,60 @@ In parallel, I currently participate in research projects as a research collabor
       <li>Project: ML-based research on drug discovery for Alzheimer's Disease.</li>
     </ul>
   </div>
-
-  <!-- Right: School Logo -->
   <div>
     <img src="/images/education/Ohio_State_University_Logo.png" alt="Ohio State Logo" style="width: 80px; height: auto; margin-left: 20px;">
   </div>
-
 </div>
 
 <!-- UST -->
-<div style="margin-bottom: 30px;">
-  <!-- <img src="/images/education/ustLogo.png" alt="UST Logo" style="width: 30px;"> -->
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px;">
+  <div>
+    <h3>University of Science and Technology</h3>
+    <p><em>Master of Engineering in Aerospace System Engineering</em></p>
+    <ul style="margin: 0; padding-left: 20px;">
+      <li>Full-time research at the Korea Aerospace Research Institute (KARI).</li>
+      <li>Studied Supersonic Combustion Engines and Wet Compression Compressor.</li>
+      <li>Thesis: Study on the Spray Characteristics of Fuel Injectors for Scramjet Engines.</li>
+    </ul>
+  </div>
+  <div>
+    <img src="/images/education/ustLogo.png" alt="UST Logo" style="width: 80px; height: auto; margin-left: 20px;">
+  </div>
+</div>
+
+<!-- Inha University -->
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px;">
+  <div>
+    <h3>Inha University</h3>
+    <p><em>Bachelor of Science in Aerospace Engineering</em></p>
+    <ul style="margin: 0; padding-left: 20px;">
+      <li>Took courses in Fluid Dynamics, Aerodynamics, Structural Analysis, Propulsion System Design, Control Systems, Linear Algebra, and Vector Calculus.</li>
+      <li>Ranked in the top 10% of the program, honored as a junior year student.</li>
+      <li>Project: Unmanned Aerial Vehicle (UAV) Design and Flight Test of a Scaled Prototype.</li>
+    </ul>
+  </div>
+  <div>
+    <img src="/images/education/inhaLogo.jpg" alt="Inha Logo" style="width: 80px; height: auto; margin-left: 20px;">
+  </div>
+</div>
+
+<!-- UST -->
+<!-- <div style="margin-bottom: 30px;">
   <h3>University of Science and Technology</h3>
   <p><em>Master of Engineering in Aerospace System Engineering</em></p>
   - Full-time research at the Korea Aerospace Research Institute (KARI).<br>
   - Studied Supersonic Combustion Engines and Wet Compression Compressor.<br>
   - Thesis: Study on the Spray Characteristics of Fuel Injectors for Scramjet Engines.<br>
-</div>
+</div> -->
 
 <!-- Inha University -->
-<div style="margin-bottom: 30px;">
-  <!-- <img src="/images/education/inhaLogo.jpg" alt="Inha Logo" style="width: 30px;"> -->
+<!-- <div style="margin-bottom: 30px;">
   <h3>Inha University</h3>
   <p><em>Bachelor of Science in Aerospace Engineering</em></p>
   - Took courses about Fluid Dynamics, Aerodynamics, Structural Analysis, Propulsion system design, Control Systems, Linear Algebra and Vector Calculus.<br>
   - Ranked in the top 10% of the program, honored as a junior year student.<br>
   - Project: Unmanned Aerial Vehicle (UAV) Design and Flight Test of a Scaled Prototype.
-</div>
+</div> -->
 
 
 <h2 style="color:#666; margin-top: 40px;">Work Experience</h2>
