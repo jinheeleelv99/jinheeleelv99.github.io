@@ -30,7 +30,6 @@ In parallel, I currently participate in research projects as a research collabor
 
 
 <h2 style="color:#666; margin-top: 30px;">Skills</h2>
-<hr style="border: none; height: 2px; background-color: #999; margin: 10px 0 30px 0;">
 
 <p>Proficient in Python and PyTorch.</p>
 
@@ -54,7 +53,6 @@ In parallel, I currently participate in research projects as a research collabor
 
 
 <h2 style="color:#666; margin-top: 60px;">Education</h2>
-<hr style="border: none; height: 2px; background-color: #999; margin: 10px 0 30px 0;">
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 30px;">
   <div>
@@ -104,7 +102,6 @@ In parallel, I currently participate in research projects as a research collabor
 
 
 <h2 style="color:#666; margin-top: 60px;">Work Experience</h2>
-<hr style="border: none; height: 2px; background-color: #999; margin: 10px 0 30px 0;">
 
 <!-- Work Experience Entry -->
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 30px;">
