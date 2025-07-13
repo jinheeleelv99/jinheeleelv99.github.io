@@ -6,6 +6,15 @@ excerpt: |
 collection: portfolio
 ---
 
+<section class="hero teaser">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <img id="teaser" src="/images/AbsoluteDepthMVD/teaser.png" alt="Teaser Image" style="width:100%; height:auto;">
+    </div>
+  </div>
+</section>
+
+
 <section class="section">
   <div class="container is-max-desktop">    
     <!-- About This Work. -->
@@ -27,22 +36,6 @@ collection: portfolio
 
 <section class="section">
   <div class="container is-max-desktop">
-    <div class="columns is-centered">
-      <div class="column">
-        <div class="content">
-          <h2 class="title is-3 has-text-centered">Pipeline Overview</h2>
-          <p style="margin-bottom: 30px;">
-            Our pipeline estimates absolute intraoperative distances from monocular surgical video in microvascular decompression (MVD) procedures.
-            We leveraged a pretrained monocular depth estimation model (Depth-Anything-V2), and converted the resulting relative depth maps into metric-scale distance values using microscope-specific calibration parameters.
-            To determine meaningful points, we extract the centroids of key anatomical structures segmented by SAM2, and compute distances at those locations.  
-          </p>
-          <p style="margin-bottom: 30px;">
-          <img src="/images/AbsoluteDepthMVD/Figure2.png" style="max-width:100%; height:auto; display:block; margin-top: 20px; margin:0 auto;">
-          </p>
-        </div>
-      </div>
-    </div>
-
     <div class="columns is-centered">
       <div class="column">
         <div class="content">
