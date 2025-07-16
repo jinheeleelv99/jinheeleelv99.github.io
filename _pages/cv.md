@@ -3,7 +3,7 @@ layout: null
 permalink: /cv/
 ---
 
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <html>
   <head>
     <meta http-equiv="refresh" content="0; url=/files/JinheeLee_CV.pdf" />
