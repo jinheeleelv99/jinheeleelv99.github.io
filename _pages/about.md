@@ -98,7 +98,7 @@ My research interests focus on AI systems that support surgeons during intraoper
     <h3>Surgical Innovation & Machine Interfacing Lab (SIMILab), Stanford University<br> & Bongseng AI Lab (BAIL), Bongseng Memorial Hospital</h3>
     <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 5px;">
       <p style="margin: 0;"><em>AI Research Collaborator</em></p>
-      <p style="margin: 0; white-space: nowrap; min-width: 160px; text-align: right; font-size: 13px;">Sep 2024 – Present</p>
+      <p style="margin: 0; white-space: nowrap; min-width: 160px; text-align: right; font-size: 13px;">Sep. 2024 – Present</p>
     </div>
     <ul style="margin: 0; padding-left: 20px;">
       <li>Studying AI models for segmentation, depth estimation, and 3D reconstruction in surgical videos and scenes.</li>
@@ -113,7 +113,7 @@ My research interests focus on AI systems that support surgeons during intraoper
     <h3>AI Research Center, lululab Inc.</h3>
     <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 5px;">
       <p style="margin: 0;"><em>AI Engineer</em></p>
-      <p style="margin: 0; white-space: nowrap; min-width: 160px; text-align: right; font-size: 13px;">January 2022 - Present</p>
+      <p style="margin: 0; white-space: nowrap; min-width: 160px; text-align: right; font-size: 13px;">Jan. 2022 - Present</p>
     </div>
     <ul style="margin: 0; padding-left: 20px;">
       <li>Developed generative models for simulating skin aging and conditions.</li>
@@ -131,7 +131,7 @@ My research interests focus on AI systems that support surgeons during intraoper
     <h3>Korea Aerospace Research Institute (KARI)</h3>
     <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 5px;">
       <p style="margin: 0;"><em>Student Researcher</em></p>
-      <p style="margin: 0; white-space: nowrap; min-width: 160px; text-align: right; font-size: 13px;">March 2016 - February 2018</p>
+      <p style="margin: 0; white-space: nowrap; min-width: 160px; text-align: right; font-size: 13px;">Mar. 2016 - Feb. 2018</p>
     </div>
     <ul style="margin: 0; padding-left: 20px;">
       <li>Conducted fuel injector tests and combustion stability experiments for Supersonic Combustion RamJet (Scramjet) engines.</li>
@@ -146,7 +146,7 @@ My research interests focus on AI systems that support surgeons during intraoper
     <h3>Republic of Korea Air Force</h3>
     <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 5px;">
       <p style="margin: 0;"><em>Sergeant, Aircraft Mechanics</em></p>
-      <p style="margin: 0; white-space: nowrap; min-width: 160px; text-align: right; font-size: 13px;">February 2011 - February 2013</p>
+      <p style="margin: 0; white-space: nowrap; min-width: 160px; text-align: right; font-size: 13px;">Feb. 2011 - Feb. 2013</p>
     </div>
     <ul style="margin: 0; padding-left: 20px;">
       <li>Completed 2-year mandatory military service and honorably discharged after 24 months as a Sergeant.</li>
